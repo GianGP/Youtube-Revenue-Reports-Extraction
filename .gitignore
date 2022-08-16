@@ -1,0 +1,8 @@
+.venv/
+tmp/
+client_secret.json
+youtube-extraction.json
+config.json
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
